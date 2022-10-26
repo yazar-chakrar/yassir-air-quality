@@ -1,0 +1,18 @@
+{
+    "IQAIR_API_KEY": "13dd8599-c207-45f8-9f29-6d4442fc26db",
+    "db": "mongodb://localhost/air_quality",
+    "iqair_url": "http://api.airvisual.com/v2/nearest_city",
+
+    "cron_cityv": {
+        "lat": "48.856613",
+        "lon": "2.352222"
+    },
+
+    "cron_city": {
+        "name": "paris",
+        "att": {
+            "lat": "48.856613",
+            "lon": "2.352222"
+        }
+    }
+}
