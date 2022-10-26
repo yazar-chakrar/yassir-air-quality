@@ -2,6 +2,9 @@
 const express = require('express');
 const app = express();
 
+//require('./app/logging')();
+//require('./app/conf')();
+
 //conf
 require('./app/db')();
 //MyCrons
